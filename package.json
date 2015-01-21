@@ -1,0 +1,24 @@
+{
+  "name": "hacking-journalism",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "socket.io": "~1.2.1",
+    "express": "~4.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/young/hacking-journalism.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/young/hacking-journalism/issues"
+  },
+  "homepage": "https://github.com/young/hacking-journalism"
+}

@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TechKno Video Sync</title>
+
+</head>
+<body>
+  <div class="login-box">
+    <input class="username" type="text" placeholder="Username"/>
+    <button onclick="login()">Login</button>
+  </div>
+
+
+
+  <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+
+  <video class="video-player" controls>
+    <source src="http://ondemand.abcnews.com/playback/abcnews/121221_ntl_bloomberg_1145_700.mp4" type="video/mp4">
+  </video>
+
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="/main.js"></script>
+</body>
+</html>
