@@ -1,5 +1,7 @@
 # Resume
 ====
+![](https://github.com/young/Resume/blob/master/misc/Resume_logo.png "Resume Logo")
+
 
 Resume represents the future of online content consumption.
 It allows for a seamless user experience where content is delivered intelligently based on the device of the user.
