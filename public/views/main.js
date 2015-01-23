@@ -4,6 +4,9 @@ var currentLocation = 0.1;
 var videoEl_ = $('.video-player');
 var audioEl_ = $('.audio-player');
 
+videoEl_.hide();
+audioEl_.hide();
+
 var username;
 
 $(document).ready(function() {
