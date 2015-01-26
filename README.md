@@ -17,3 +17,7 @@ The user then gets into their car, opens up example.com on their phone where Res
 Later that evening, the user decides to finish watching the video. Because Resume has been tracking their progress, the video is resumed exactly where the audio left off earlier that day.
 
 
+### TODO
++ Use real data store (Mongo/Redis)
++ Implement handbrake
++ Auto convert mp4 to mp3
